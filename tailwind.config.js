@@ -5,7 +5,10 @@ export default {
     extend: {
       colors: {
         base: '#191724',
-      }
+      },
+      fontFamily: {
+        'pixel': ['VT323', 'monospace'],
+      },
     },
   },
   plugins: [],
